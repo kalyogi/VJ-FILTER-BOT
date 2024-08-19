@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/aa201f6ae3458e20ef53b.jpg" alt="COKenclips-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  COKENCLIPS BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
