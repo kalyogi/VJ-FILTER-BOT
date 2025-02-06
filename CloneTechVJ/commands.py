@@ -274,4 +274,3 @@ async def stats(client, message):
     total_users = await clonedb.total_users_count(me.id)
     total = await Media.count_documents()
     await message.reply(f"**Total Files : {total}\n\nTotal Users : {total_users}**")
-    #12345
